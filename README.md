@@ -40,7 +40,7 @@ images/
 ├── room1-1,2off.png       # Room 1 - both switches OFF
 ├── room2-1on.png          # Room 2 - switch 1 ON
 ├── thank\_you.png          # Exit screen
-...
+
 
 ```
 
